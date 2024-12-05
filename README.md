@@ -14,7 +14,8 @@ An image of the 2017 Thomas Fire, as seen over the Santa Barbara cityscape on De
 
 ## Repository Structure
 ```
-thomas_fire_analysis│
+thomas_fire_analysis
+│
 ├── README.md                     
 ├── hwk4-task2-false-color-wong.ipynb
 ├── hwk2-task3-aqi-wong.ipynb                       
