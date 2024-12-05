@@ -40,11 +40,14 @@ The AQI (Air Quality Index) data was created by the US EPA (Environmental Protec
 
 
 ## References
+
+AQI Data: https://aqs.epa.gov/aqsweb/airdata (Accessed October, 2024)
+
+Data.gov Data Catalogue, California Fire Perimeters (all) [Data file] Available from: https://catalog.data.gov/dataset/california-fire-perimeters-all-b3436. Access date: November, 2024.
+
 Hamm, K. (2017, December 14). Closing schools and moving finals due to Thomas Fire. The Santa Barbara Independent. https://www.independent.com/2017/12/13/closing-schools-and-moving-finals-due-thomas-fire/ 
 
 Microsoft Planetary Computer Data Catalogue, Landsat collection 2 Level-2 [Data file] Available from: https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2. Access date: November 22, 2024.
-
-AQI Data: https://aqs.epa.gov/aqsweb/airdata (Accessed October, 2024)
 
 Assignment came from UCSB Masters of Environmental Data Science class, EDS 220 - Working with Environmental Data Science. Class is taught by Carmen Galaz Garcia.
 
